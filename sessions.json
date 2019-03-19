@@ -1,0 +1,58 @@
+{
+    "items": [
+        {
+            "name": "Ben Moress",
+            "imageUrl": "./images/ben.jpeg",
+            "topic": "Introduction and Keynote",
+            "rating": "★★★★★"
+        },
+        {
+            "name": "Ajuna Kyaruzi",
+            "imageUrl": "./images/ajuna.jpeg",
+            "topic": "AMP: A library for beautiful responsive sites",
+            "rating": "★★★★★"
+        },
+        {
+            "name": "Frank Broersen",
+            "imageUrl": "./images/frank.jpg",
+            "topic": "Advanced interactivity with AMP",
+            "rating": "★★★★★"
+        },
+        {
+            "name": "Crystal Lambert",
+            "imageUrl": "./images/crystal.jpg",
+            "topic": "AMP in production",
+            "rating": "★★★★★"
+        },
+        {
+            "name": "Paul Bakaus",
+            "imageUrl": "./images/pbakaus.jpg",
+            "topic": "AMP for fun and profit",
+            "rating": "★★★★★"
+        },
+        {
+            "name": "Ben Moress",
+            "imageUrl": "./images/ben_pwa.jpg",
+            "topic": "Progressive Web AMPs",
+            "rating": "★★★★★"
+        },
+        {
+            "name": "Adetunji Aramide",
+            "imageUrl": "./images/adetunji.jpg",
+            "topic": "Our AMP Experience at Punch.ng",
+            "rating": "★★★★★"
+        },
+        {
+            "name": "Paul Bakaus",
+            "imageUrl": "./images/pbakaus.jpg",
+            "topic": "What's next in AMP",
+            "rating": "★★★★★"
+        },
+        {
+            "name": "Frank Broersen",
+            "imageUrl": "./images/frank.jpg",
+            "topic": "Do More with AMP",
+            "rating": "★★★★★"
+        }
+    ]
+}
